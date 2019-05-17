@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+include <bits/stdc++.h>
 using namespace std;
 
 bool tashkhisharf(char a)//in barname bayad horof va amalvand ha tashkhis bede va hamchenin element ha 
